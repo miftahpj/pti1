@@ -16,10 +16,10 @@
           class="sm:w-[220px] bg-[#261a6b] text-white p-6 flex flex-col justify-center rounded-t-2xl sm:rounded-l-2xl sm:rounded-tr-none"
         >
           <h4 class="text-[11px] tracking-widest text-[#ccc] uppercase">
-            FULL STACK DEVELOPER
+            Cyber Security
           </h4>
           <h1 class="text-[22px] font-semibold leading-[25px] pt-3">
-            PT. FUNGSITAMA CIPTA TEKNOLOGI
+            PT.Abadi Jaya Guangzhou Kosmetik
           </h1>
         </div>
 
@@ -29,17 +29,18 @@
             📍 Jakarta
           </h1>
           <p>
-            <span class="font-semibold text-gray-900">💡 Skill:</span>
-            TypeScript,MySQL
+            <span class="font-semibold text-gray-900">💡 Skill:</span>Keterampilan Teknis Keamanan Jaringan
+            
           </p>
           <p>
             <span class="font-semibold text-gray-900">⏰ Waktu Kerja:</span>
             Full Time
           </p>
-          <p><span class="font-semibold text-gray-900">🎓 Pendidikan:</span></p>
+          <p><span class="font-semibold text-gray-900">🎓 Pendidikan:</span>Gelar Ilmu Komputer
+          </p>
           <p>
             <span class="font-semibold text-gray-900">💰 Gaji:</span> Rp
-            6.500.000 - Rp 8.500.000
+            26.000.000 - Rp 30.000.000
           </p>
         </div>
       </div>
@@ -54,10 +55,10 @@
           class="sm:w-[220px] bg-[#261a6b] text-white p-6 flex flex-col justify-center rounded-t-2xl sm:rounded-l-2xl sm:rounded-tr-none"
         >
           <h4 class="text-[11px] tracking-widest text-[#ccc] uppercase">
-            FULL STACK DEVELOPER
+            Cyber Security
           </h4>
           <h1 class="text-[22px] font-semibold leading-[25px] pt-3">
-            PT.CYBERINDO MEGA PERSADA
+            PT.Deep Symbolics Indonesia
           </h1>
         </div>
 
@@ -66,8 +67,7 @@
             📍 Jakarta
           </h1>
           <p>
-            <span class="font-semibold text-gray-900">💡 Skill:</span>HTML,CSS,
-            JAVASCRIPT,REACT.JS dan POSTGRESQL
+            <span class="font-semibold text-gray-900">💡 Skill:</span>Terampil Dalam Keahlian Infrastruktur Cloud
           </p>
           <p>
             <span class="font-semibold text-gray-900">⏰ Waktu Kerja:</span>
@@ -78,7 +78,7 @@
           </p>
           <p>
             <span class="font-semibold text-gray-900">💰 Gaji:</span> Rp
-            8.000.000 - Rp 9.000.000
+            7.000.000 - Rp 11.250.000
           </p>
         </div>
       </div>
@@ -93,10 +93,10 @@
           class="sm:w-[220px] bg-[#261a6b] text-white p-6 flex flex-col justify-center rounded-t-2xl sm:rounded-l-2xl sm:rounded-tr-none"
         >
           <h4 class="text-[11px] tracking-widest text-[#ccc] uppercase">
-            BFULL STACK DEVELOPER
+            Cyber Security
           </h4>
           <h1 class="text-[22px] font-semibold leading-[25px] pt-3">
-            PT.DATACAKARA SOLUSINDO
+            PT.Pelindung Teknologi Utama
           </h1>
         </div>
 
@@ -105,16 +105,14 @@
             📍 Jakarta
           </h1>
           <p>
-            <span class="font-semibold text-gray-900">💡 Skill:</span> HTML,CSS,
-            JAVASCRIPT,REACT.JS,C# dan MYSQL
+            <span class="font-semibold text-gray-900">💡 Skill:</span> 
           </p>
           <p>
             <span class="font-semibold text-gray-900">⏰ Waktu Kerja:</span>
             FULL TIME
           </p>
           <p>
-            <span class="font-semibold text-gray-900">🎓 Pendidikan:</span> d3
-            Teknik Informatika/Sistem Informasi
+            <span class="font-semibold text-gray-900">🎓 Pendidikan:</span> 
           </p>
           <p>
             <span class="font-semibold text-gray-900">💰 Gaji:</span> Rp

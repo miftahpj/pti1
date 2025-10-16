@@ -16,10 +16,10 @@
           class="sm:w-[220px] bg-[#261a6b] text-white p-6 flex flex-col justify-center rounded-t-2xl sm:rounded-l-2xl sm:rounded-tr-none"
         >
           <h4 class="text-[11px] tracking-widest text-[#ccc] uppercase">
-            FULL STACK DEVELOPER
+            Back End Developer
           </h4>
           <h1 class="text-[22px] font-semibold leading-[25px] pt-3">
-            PT. FUNGSITAMA CIPTA TEKNOLOGI
+            PT.FABULO US AGRO MANDIRI
           </h1>
         </div>
 
@@ -30,16 +30,18 @@
           </h1>
           <p>
             <span class="font-semibold text-gray-900">💡 Skill:</span>
-            TypeScript,MySQL
+            React.js, TypeScript, Front-End
           </p>
           <p>
             <span class="font-semibold text-gray-900">⏰ Waktu Kerja:</span>
             Full Time
           </p>
-          <p><span class="font-semibold text-gray-900">🎓 Pendidikan:</span></p>
+          <p>
+            <span class="font-semibold text-gray-900">🎓 Pendidikan:</span>S1
+          </p>
           <p>
             <span class="font-semibold text-gray-900">💰 Gaji:</span> Rp
-            6.500.000 - Rp 8.500.000
+            6.000.000 - Rp 8.000.000
           </p>
         </div>
       </div>
@@ -54,31 +56,32 @@
           class="sm:w-[220px] bg-[#261a6b] text-white p-6 flex flex-col justify-center rounded-t-2xl sm:rounded-l-2xl sm:rounded-tr-none"
         >
           <h4 class="text-[11px] tracking-widest text-[#ccc] uppercase">
-            FULL STACK DEVELOPER
+            Back End Developer
           </h4>
           <h1 class="text-[22px] font-semibold leading-[25px] pt-3">
-            PT.CYBERINDO MEGA PERSADA
+            PT.Skyshi Digital Indonesia
           </h1>
         </div>
 
         <div class="flex-1 p-6 text-gray-700 text-[15px] leading-relaxed">
           <h1 class="font-semibold text-gray-800 text-[17px] mb-3">
-            📍 Jakarta
+            📍 Kabupaten Sleman
           </h1>
           <p>
-            <span class="font-semibold text-gray-900">💡 Skill:</span>HTML,CSS,
-            JAVASCRIPT,REACT.JS dan POSTGRESQL
+            <span class="font-semibold text-gray-900">💡 Skill:</span>
+            MySQL
           </p>
           <p>
             <span class="font-semibold text-gray-900">⏰ Waktu Kerja:</span>
             FULL TIME
           </p>
           <p>
-            <span class="font-semibold text-gray-900">🎓 Pendidikan:</span>
+            <span class="font-semibold text-gray-900">🎓 Pendidikan:</span
+            >SMA/SMK
           </p>
           <p>
             <span class="font-semibold text-gray-900">💰 Gaji:</span> Rp
-            8.000.000 - Rp 9.000.000
+            8.000.000 - Rp 14.000.000
           </p>
         </div>
       </div>
@@ -93,32 +96,29 @@
           class="sm:w-[220px] bg-[#261a6b] text-white p-6 flex flex-col justify-center rounded-t-2xl sm:rounded-l-2xl sm:rounded-tr-none"
         >
           <h4 class="text-[11px] tracking-widest text-[#ccc] uppercase">
-            BFULL STACK DEVELOPER
+            Back End Developer
           </h4>
           <h1 class="text-[22px] font-semibold leading-[25px] pt-3">
-            PT.DATACAKARA SOLUSINDO
+            PT.Skyshi Digital Indonesia
           </h1>
         </div>
 
         <div class="flex-1 p-6 text-gray-700 text-[15px] leading-relaxed">
           <h1 class="font-semibold text-gray-800 text-[17px] mb-3">
-            📍 Jakarta
+            📍 Kabupaten Sleman
           </h1>
-          <p>
-            <span class="font-semibold text-gray-900">💡 Skill:</span> HTML,CSS,
-            JAVASCRIPT,REACT.JS,C# dan MYSQL
-          </p>
+          <p><span class="font-semibold text-gray-900">💡 Skill:</span> SQL</p>
           <p>
             <span class="font-semibold text-gray-900">⏰ Waktu Kerja:</span>
             FULL TIME
           </p>
           <p>
-            <span class="font-semibold text-gray-900">🎓 Pendidikan:</span> d3
-            Teknik Informatika/Sistem Informasi
+            <span class="font-semibold text-gray-900">🎓 Pendidikan:</span>
+            D3/D4
           </p>
           <p>
             <span class="font-semibold text-gray-900">💰 Gaji:</span> Rp
-            17.000.000 - Rp 21.000.000
+            8.000.000 - Rp 10.000.000
           </p>
         </div>
       </div>

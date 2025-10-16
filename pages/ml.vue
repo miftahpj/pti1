@@ -30,7 +30,7 @@
           </h1>
           <p>
             <span class="font-semibold text-gray-900">💡 Skill:</span>
-            TypeScript,MySQL
+            
           </p>
           <p>
             <span class="font-semibold text-gray-900">⏰ Waktu Kerja:</span>
@@ -39,7 +39,7 @@
           <p><span class="font-semibold text-gray-900">🎓 Pendidikan:</span></p>
           <p>
             <span class="font-semibold text-gray-900">💰 Gaji:</span> Rp
-            6.500.000 - Rp 8.500.000
+            
           </p>
         </div>
       </div>
@@ -66,8 +66,7 @@
             📍 Jakarta
           </h1>
           <p>
-            <span class="font-semibold text-gray-900">💡 Skill:</span>HTML,CSS,
-            JAVASCRIPT,REACT.JS dan POSTGRESQL
+            <span class="font-semibold text-gray-900">💡 Skill:</span>
           </p>
           <p>
             <span class="font-semibold text-gray-900">⏰ Waktu Kerja:</span>
@@ -78,7 +77,7 @@
           </p>
           <p>
             <span class="font-semibold text-gray-900">💰 Gaji:</span> Rp
-            8.000.000 - Rp 9.000.000
+            
           </p>
         </div>
       </div>
@@ -105,20 +104,18 @@
             📍 Jakarta
           </h1>
           <p>
-            <span class="font-semibold text-gray-900">💡 Skill:</span> HTML,CSS,
-            JAVASCRIPT,REACT.JS,C# dan MYSQL
+            <span class="font-semibold text-gray-900">💡 Skill:</span> 
           </p>
           <p>
             <span class="font-semibold text-gray-900">⏰ Waktu Kerja:</span>
             FULL TIME
           </p>
           <p>
-            <span class="font-semibold text-gray-900">🎓 Pendidikan:</span> d3
-            Teknik Informatika/Sistem Informasi
+            <span class="font-semibold text-gray-900">🎓 Pendidikan:</span>
           </p>
           <p>
             <span class="font-semibold text-gray-900">💰 Gaji:</span> Rp
-            17.000.000 - Rp 21.000.000
+            
           </p>
         </div>
       </div>
