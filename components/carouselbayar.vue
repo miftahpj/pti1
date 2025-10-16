@@ -39,81 +39,9 @@
           <div
             class="bg-gray-50 shadow-inner rounded-2xl p-6 sm:p-10 w-full sm:w-[32rem] min-h-[24rem] sm:min-h-[26rem]"
           >
-            <div
-              class="flex items-start space-x-3 sm:space-x-4 text-gray-800 text-xl sm:text-2xl font-semibold mb-4"
-            >
-              <h2 class="flex-shrink-0">2.</h2>
-              <h2 class="leading-snug text-base sm:text-lg">
-                Setelah login lalu pilih Menu KEUANGAN
-              </h2>
-            </div>
-            <p class="text-gray-600 mb-6 text-base sm:text-lg">
-              lalu ke HISTORY PEMBAYARAN, kemudian pilih Tahun Akademik dan klik
-              tombol CARI warna BIRU.
-            </p>
-          </div>
+
         </div>
 
-        <!-- Slide 3 -->
-        <div class="w-full flex-shrink-0 flex justify-center p-6 sm:p-10">
-          <div
-            class="bg-gray-50 shadow-inner rounded-2xl p-6 sm:p-10 w-full sm:w-[32rem] min-h-[24rem] sm:min-h-[26rem]"
-          >
-            <div
-              class="flex items-start space-x-3 sm:space-x-4 text-gray-800 text-xl sm:text-2xl font-semibold mb-4"
-            >
-              <h2 class="flex-shrink-0">3.</h2>
-              <h2 class="leading-snug text-base sm:text-lg">
-                Setelah itu akan muncul data sejarah pembayaran mahasiswa
-              </h2>
-            </div>
-            <p class="text-gray-600 mb-6 text-base sm:text-lg">
-              Untuk melakukan pembayaran silahkan klik kotak kecil di bawah
-              tulisan PILIH BIAYA, lalu klik tombol warna MERAH PROSES BIAYA KE
-              BANK.
-            </p>
-          </div>
-        </div>
-
-        <!-- Slide 4 -->
-        <div class="w-full flex-shrink-0 flex justify-center p-6 sm:p-10">
-          <div
-            class="bg-gray-50 shadow-inner rounded-2xl p-6 sm:p-10 w-full sm:w-[32rem] min-h-[24rem] sm:min-h-[26rem]"
-          >
-            <div
-              class="flex items-start space-x-3 sm:space-x-4 text-gray-800 text-xl sm:text-2xl font-semibold mb-4"
-            >
-              <h2 class="flex-shrink-0">4.</h2>
-              <h2 class="leading-snug text-base sm:text-lg">
-                Setelah klik proses biaya ke bank
-              </h2>
-            </div>
-            <p class="text-gray-600 mb-6 text-base sm:text-lg">
-              Setelah klik, sistem akan memunculkan total biaya yang harus
-              dibayar. Pastikan data sesuai sebelum melanjutkan ke pembayaran.
-            </p>
-          </div>
-        </div>
-
-        <!-- Slide 5 -->
-        <div class="w-full flex-shrink-0 flex justify-center p-6 sm:p-10">
-          <div
-            class="bg-gray-50 shadow-inner rounded-2xl p-6 sm:p-10 w-full sm:w-[32rem] min-h-[24rem] sm:min-h-[26rem]"
-          >
-            <div
-              class="flex items-start space-x-3 sm:space-x-4 text-gray-800 text-xl sm:text-2xl font-semibold mb-4"
-            >
-              <h2 class="flex-shrink-0">5.</h2>
-              <h2 class="leading-snug text-base sm:text-lg">
-                Silahkan lakukan transaksi pembayaran
-              </h2>
-            </div>
-            <p class="text-gray-600 mb-6 text-base sm:text-lg">
-              Transaksi pembayaran dapat dilakukan melalui Teller, ATM, atau
-              Mobile Banking menggunakan Virtual Account BNI yang tertera.
-            </p>
-          </div>
-        </div>
       </div>
 
       <!-- Indicators -->
@@ -167,6 +95,7 @@
         </NuxtLink>
       </div>
     </div>
+  </div>
   </div>
 </template>
 
